@@ -1,0 +1,26 @@
+{
+  "original_file": "seregasoleniy-s21plus-aml-sd-v1.2.6-install.tar.gz",
+  "total_size": 43309008,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_03",
+      "size": 20971520,
+      "sha256": "35a831befc4499057e3a4dae84d49088d5f5002b864e52e54ac3c66992972a46"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_03",
+      "size": 20971520,
+      "sha256": "29ca4abcf31d2883e6563ee5eb24603f148958e7a9b56d9f82985de732dcef77"
+    },
+    {
+      "index": 3,
+      "name": "part_03_of_03",
+      "size": 1365968,
+      "sha256": "64548d408f0e46f448ab1483fa2583dba0f1acaa1aa4004210ac72f1176ce0b7"
+    }
+  ],
+  "created_at": "2025-11-13T10:30:22.529283152Z"
+}
