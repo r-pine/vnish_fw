@@ -1,0 +1,26 @@
+{
+  "original_file": "seregasoleniy-t21-aml-sd-v1.2.6-install.tar.gz",
+  "total_size": 43314141,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_03",
+      "size": 20971520,
+      "sha256": "1537d7a1de7a5abba96b71a9d8aef8df40af4ae55884b8df654c7bcb4d7c5f63"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_03",
+      "size": 20971520,
+      "sha256": "5ae2b6701d4c41cca8ca3c2492f02abaef991c06ff2a48549c86392c2c4c5695"
+    },
+    {
+      "index": 3,
+      "name": "part_03_of_03",
+      "size": 1371101,
+      "sha256": "ec7c789e3a3561d0bd223d18e0e29edde97515c58892a9446513080d262b35c7"
+    }
+  ],
+  "created_at": "2025-11-13T10:18:09.975701672Z"
+}
