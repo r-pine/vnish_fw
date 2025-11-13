@@ -1,0 +1,26 @@
+{
+  "original_file": "vnishus-s21xp-aml-sd-v1.2.6-rc5-install.tar.gz",
+  "total_size": 43578851,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_03",
+      "size": 20971520,
+      "sha256": "b17105b4e9a778c3971ac15d0ae2668ef1a1252db152ec038a2aa51944153028"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_03",
+      "size": 20971520,
+      "sha256": "01a34cea851733ee6b9d24474b55fdd4384d56fde860c2475199674f0085abe5"
+    },
+    {
+      "index": 3,
+      "name": "part_03_of_03",
+      "size": 1635811,
+      "sha256": "9d29fa0848b93c2decb7ef07ae4166a678492fcbd8f4ecbbf58b0d2058339d64"
+    }
+  ],
+  "created_at": "2025-11-13T10:31:34.113410327Z"
+}
