@@ -1,0 +1,26 @@
+{
+  "original_file": "vnishru-s21xp-imm-aml-sd-v1.2.6-install.tar.gz",
+  "total_size": 43312060,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_03",
+      "size": 20971520,
+      "sha256": "355146b9f079c7ee29b93aac75c4c28bc1ac1729ba293793e0ab517954f12a45"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_03",
+      "size": 20971520,
+      "sha256": "b3dd3ecf12228e919d02c75dd07a77d4349f021c3d28b7cd3591343fe20524d2"
+    },
+    {
+      "index": 3,
+      "name": "part_03_of_03",
+      "size": 1369020,
+      "sha256": "68f5c9f9000772285e3191011fd8403ccdfd71abbf599a4f7adc4649fb000223"
+    }
+  ],
+  "created_at": "2025-11-13T10:24:56.230885026Z"
+}
