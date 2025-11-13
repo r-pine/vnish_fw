@@ -1,0 +1,20 @@
+{
+  "original_file": "seregasoleniy-s19xp-aml-sd-v1.2.6-rc5-install.tar.gz",
+  "total_size": 41821073,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_02",
+      "size": 20971520,
+      "sha256": "d6c7dbd762ab060c483736db1c67b6a1112057629fdf04fe1e382b07e6e0c170"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_02",
+      "size": 20849553,
+      "sha256": "eee60b9983c16fc9e53d4dc2c875aa911d98d6fe0522f95b25a53172bc06aeb0"
+    }
+  ],
+  "created_at": "2025-11-13T10:29:00.165048146Z"
+}
