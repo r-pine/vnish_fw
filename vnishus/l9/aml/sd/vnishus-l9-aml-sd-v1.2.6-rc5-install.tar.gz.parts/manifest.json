@@ -1,0 +1,26 @@
+{
+  "original_file": "vnishus-l9-aml-sd-v1.2.6-rc5-install.tar.gz",
+  "total_size": 43574238,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_03",
+      "size": 20971520,
+      "sha256": "299966d7b1bba9881f971db34d2d2a2e752baaf0beace3c455409ffbe1073106"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_03",
+      "size": 20971520,
+      "sha256": "763ca9c02b8ef9ab5de0fd08facdf348f767b3eac86e53771f2494d399a75770"
+    },
+    {
+      "index": 3,
+      "name": "part_03_of_03",
+      "size": 1631198,
+      "sha256": "aec26bcefa474d6d73231b63fa6ae866e8eef281214e4325cd129c9cdfea560e"
+    }
+  ],
+  "created_at": "2025-11-13T10:22:47.12746946Z"
+}
