@@ -1,0 +1,26 @@
+{
+  "original_file": "seregasoleniy-l9-aml-sd-v1.2.6-install.tar.gz",
+  "total_size": 43301227,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_03",
+      "size": 20971520,
+      "sha256": "dc59be08f0d61c55a96d8251e3d9620363a6b8e8c42be8a1ce935fb9e9d7598c"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_03",
+      "size": 20971520,
+      "sha256": "5a73d7f42b82bc48fad193f77c25d23aa6b9ed13fc3adf95bf38904e6a74cbad"
+    },
+    {
+      "index": 3,
+      "name": "part_03_of_03",
+      "size": 1358187,
+      "sha256": "c96b58c6ae8dba58940285a9e5846f93c74df8038a6f0d63d31a75e4173f6de4"
+    }
+  ],
+  "created_at": "2025-11-13T10:19:35.258638702Z"
+}
