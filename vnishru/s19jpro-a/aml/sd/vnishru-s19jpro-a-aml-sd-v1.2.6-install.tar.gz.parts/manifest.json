@@ -1,0 +1,26 @@
+{
+  "original_file": "vnishru-s19jpro-a-aml-sd-v1.2.6-install.tar.gz",
+  "total_size": 43317644,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_03",
+      "size": 20971520,
+      "sha256": "6a1874bce8779769aa6bd51c476ad8792969e54558952e47eed09867f065f6b6"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_03",
+      "size": 20971520,
+      "sha256": "312e389b75840486de3b3d4f3d8f45c68ddd5208821b52fad6789c9e5c981a7d"
+    },
+    {
+      "index": 3,
+      "name": "part_03_of_03",
+      "size": 1374604,
+      "sha256": "06b61c568137a41b56a797351a3a9ada97b2305c1b03a7d1d5924a251c352508"
+    }
+  ],
+  "created_at": "2025-11-13T10:20:38.810523468Z"
+}
