@@ -1,0 +1,26 @@
+{
+  "original_file": "vnishus-t21-aml-sd-v1.2.6-rc5-install.tar.gz",
+  "total_size": 43576956,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_03",
+      "size": 20971520,
+      "sha256": "e9e165a51d5576d81313e4c43352a1bdeb64dfa417b7383603552f6decf5cbc6"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_03",
+      "size": 20971520,
+      "sha256": "03e92fa9c84dbe5e9d6f7a45a9dc897012cdc306115a6283c96e6885a1cfab88"
+    },
+    {
+      "index": 3,
+      "name": "part_03_of_03",
+      "size": 1633916,
+      "sha256": "8a419a04e3f9cd9f6e5e2f2503dfe5e7a83f2a8dc195d1718fdb1afe78cdf2d7"
+    }
+  ],
+  "created_at": "2025-11-13T10:29:51.297584615Z"
+}
