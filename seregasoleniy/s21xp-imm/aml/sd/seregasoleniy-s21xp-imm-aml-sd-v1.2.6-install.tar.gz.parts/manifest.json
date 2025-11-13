@@ -1,0 +1,26 @@
+{
+  "original_file": "seregasoleniy-s21xp-imm-aml-sd-v1.2.6-install.tar.gz",
+  "total_size": 43320968,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_03",
+      "size": 20971520,
+      "sha256": "7d239915c2916b0f7424738fea13e63d2cfb7bfc8b9ab5747b9dc826cb704a7e"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_03",
+      "size": 20971520,
+      "sha256": "e574e57b4b67bd1c74b6eaec992d60ceea3a993e7b5258c61b4af17f9e559ee2"
+    },
+    {
+      "index": 3,
+      "name": "part_03_of_03",
+      "size": 1377928,
+      "sha256": "26cefcccfb26dda90af4bb2b14147a31c8f974bb29abc6db544637e5cd7a25b6"
+    }
+  ],
+  "created_at": "2025-11-13T10:39:10.598899033Z"
+}
