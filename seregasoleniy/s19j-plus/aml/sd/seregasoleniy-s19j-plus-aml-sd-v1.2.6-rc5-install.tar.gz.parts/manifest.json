@@ -1,0 +1,20 @@
+{
+  "original_file": "seregasoleniy-s19j-plus-aml-sd-v1.2.6-rc5-install.tar.gz",
+  "total_size": 41820673,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_02",
+      "size": 20971520,
+      "sha256": "2af324d0acc3f41517f62a684b3323f00ce28002a33fc105527463d2a3011e59"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_02",
+      "size": 20849153,
+      "sha256": "e4ea9d110061b1ae081912e9b66a0b29f5db704750b0e412218e9a3b744c05bd"
+    }
+  ],
+  "created_at": "2025-11-13T10:27:55.970611816Z"
+}
