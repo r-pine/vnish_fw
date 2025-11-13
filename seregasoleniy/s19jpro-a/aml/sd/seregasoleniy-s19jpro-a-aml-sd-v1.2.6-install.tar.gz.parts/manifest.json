@@ -1,0 +1,26 @@
+{
+  "original_file": "seregasoleniy-s19jpro-a-aml-sd-v1.2.6-install.tar.gz",
+  "total_size": 43321633,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_03",
+      "size": 20971520,
+      "sha256": "4d04d60208b0a2bf604516e964b887d3634f943b0d9026ed276cfeb89d350f00"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_03",
+      "size": 20971520,
+      "sha256": "2f65ec1720f4b7924728f1cff779afcef0addd8495865652fbbfc63365f232e8"
+    },
+    {
+      "index": 3,
+      "name": "part_03_of_03",
+      "size": 1378593,
+      "sha256": "ac31d1a049f497afb5bd18fb8469829fd566113eb2d7583f6b58026a80554b45"
+    }
+  ],
+  "created_at": "2025-11-13T10:28:44.028943412Z"
+}
