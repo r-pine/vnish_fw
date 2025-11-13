@@ -1,0 +1,26 @@
+{
+  "original_file": "vnishus-s19j-plus-aml-sd-v1.2.6-rc5-install.tar.gz",
+  "total_size": 43578424,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_03",
+      "size": 20971520,
+      "sha256": "64505f624321f413561c7186882aac864fac15937dff5e26bdc742b05cd01f81"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_03",
+      "size": 20971520,
+      "sha256": "012c30cafe0570ea31d9ff2c120e6460c8eb704685e2cd1ca82574a9d9f80ada"
+    },
+    {
+      "index": 3,
+      "name": "part_03_of_03",
+      "size": 1635384,
+      "sha256": "3ee448b9c8df5dffc67bd468c5ae95b6e9d24a50fa6c1dd3c244feafc7b94f42"
+    }
+  ],
+  "created_at": "2025-11-13T10:25:26.297229807Z"
+}
