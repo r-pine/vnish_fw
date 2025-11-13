@@ -1,0 +1,20 @@
+{
+  "original_file": "seregasoleniy-s19-126-aml-sd-v1.2.6-rc5-install.tar.gz",
+  "total_size": 41817925,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_02",
+      "size": 20971520,
+      "sha256": "96261e41dc8234f99bea7513eb4618503470dccfa5ad63fcd22caa9d6f62ef47"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_02",
+      "size": 20846405,
+      "sha256": "c9615af50a70a4d36f6cfda4235bec73076fd9e04d6c42b685bdeb2b87d4fa3f"
+    }
+  ],
+  "created_at": "2025-11-13T10:30:07.844574733Z"
+}
