@@ -1,0 +1,26 @@
+{
+  "original_file": "vnishru-s19-88-aml-sd-v1.2.6-rc5-install.tar.gz",
+  "total_size": 43568522,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_03",
+      "size": 20971520,
+      "sha256": "b50125197b9a91639aa4716a0c7162638fc1aacfb1eb7c87863153e802062ce1"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_03",
+      "size": 20971520,
+      "sha256": "fb685713421365bf3dceb2e2e5c2b81e68675f549b1d80d4d95d31679abc4d8a"
+    },
+    {
+      "index": 3,
+      "name": "part_03_of_03",
+      "size": 1625482,
+      "sha256": "e49ec90a33d79c87ab78370278a70df71c3a3a72d8ae15475faf9c487065ded8"
+    }
+  ],
+  "created_at": "2025-11-13T10:18:43.276682958Z"
+}
