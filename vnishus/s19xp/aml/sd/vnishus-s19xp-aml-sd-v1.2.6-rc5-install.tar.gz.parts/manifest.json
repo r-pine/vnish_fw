@@ -1,0 +1,26 @@
+{
+  "original_file": "vnishus-s19xp-aml-sd-v1.2.6-rc5-install.tar.gz",
+  "total_size": 43574659,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_03",
+      "size": 20971520,
+      "sha256": "8bc3bf96331023f035c4c93d86f5e7da2068a9b264b6de414727f9ee26744478"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_03",
+      "size": 20971520,
+      "sha256": "c6e2621bee2f2f69fbb68b4283c2768387113068e81fa16bf2e89e35efb48e6a"
+    },
+    {
+      "index": 3,
+      "name": "part_03_of_03",
+      "size": 1631619,
+      "sha256": "6dedf02af92852a0e0ea1d03553020678a2700b589eff48a7f6442af97ba5061"
+    }
+  ],
+  "created_at": "2025-11-13T10:27:38.105882801Z"
+}
