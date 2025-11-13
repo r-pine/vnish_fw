@@ -1,0 +1,26 @@
+{
+  "original_file": "vnishru-s19kpro-aml-sd-v1.2.6-install.tar.gz",
+  "total_size": 43314300,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_03",
+      "size": 20971520,
+      "sha256": "7a7a3ec0d229e4fcf76313c7246f1d1eaf94e4b613e83de19d5a81dcdf5d18ed"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_03",
+      "size": 20971520,
+      "sha256": "a473b01f919d87ed86cae082acfa1e26ca211a9286e4780333f60a9f93c10119"
+    },
+    {
+      "index": 3,
+      "name": "part_03_of_03",
+      "size": 1371260,
+      "sha256": "7ca4bc7099bdcc6dea180256172b6f74dfa18e1c3fdc743cf27ad7416849c884"
+    }
+  ],
+  "created_at": "2025-11-13T10:30:56.921227584Z"
+}
