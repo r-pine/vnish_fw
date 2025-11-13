@@ -1,0 +1,26 @@
+{
+  "original_file": "seregasoleniy-s21pro-aml-sd-v1.2.6-install.tar.gz",
+  "total_size": 43311807,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_03",
+      "size": 20971520,
+      "sha256": "b489add28636469fb47f1255a30ddf03ca556ec93b24c3e9429d25fce35f6bc9"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_03",
+      "size": 20971520,
+      "sha256": "0f86d2d62b38a2585776e44f3c6ddba7f57e43d16c61c1a40f18de2f80dc447f"
+    },
+    {
+      "index": 3,
+      "name": "part_03_of_03",
+      "size": 1368767,
+      "sha256": "ab532ee74d9e10b3f5e4620e834f171d9524893371cf9d335350a8a419d1e474"
+    }
+  ],
+  "created_at": "2025-11-13T10:28:10.611162984Z"
+}
