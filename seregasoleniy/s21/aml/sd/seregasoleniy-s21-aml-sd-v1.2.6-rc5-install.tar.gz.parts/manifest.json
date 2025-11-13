@@ -1,0 +1,20 @@
+{
+  "original_file": "seregasoleniy-s21-aml-sd-v1.2.6-rc5-install.tar.gz",
+  "total_size": 41820535,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_02",
+      "size": 20971520,
+      "sha256": "ba9ff109f858e426c4363011b5c929a0c31d5bc55d4b211c375910dcc9647a7b"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_02",
+      "size": 20849015,
+      "sha256": "b057d2eb3fafb7deb7511077ea1d461cf98afe2b5034f1305e7070e9e6de6ff4"
+    }
+  ],
+  "created_at": "2025-11-13T10:32:41.117631402Z"
+}
