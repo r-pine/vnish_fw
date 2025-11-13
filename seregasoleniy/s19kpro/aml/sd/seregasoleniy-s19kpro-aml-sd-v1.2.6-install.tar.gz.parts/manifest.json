@@ -1,0 +1,26 @@
+{
+  "original_file": "seregasoleniy-s19kpro-aml-sd-v1.2.6-install.tar.gz",
+  "total_size": 43317307,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_03",
+      "size": 20971520,
+      "sha256": "fa2e529688192897666ba8d04d726506a095ce687ec1f9a430277f5343cceea4"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_03",
+      "size": 20971520,
+      "sha256": "a62e9157dac9cbeb65a31edc4c530b26353464d749ecd975c857c0ec38646d83"
+    },
+    {
+      "index": 3,
+      "name": "part_03_of_03",
+      "size": 1374267,
+      "sha256": "b0d314a6c7baa16338836ef651d8439133b6c09a78dc0882cc6b41666be8beb5"
+    }
+  ],
+  "created_at": "2025-11-13T10:38:36.692421368Z"
+}
