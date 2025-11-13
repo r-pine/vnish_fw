@@ -1,0 +1,26 @@
+{
+  "original_file": "seregasoleniy-s19-88-aml-sd-v1.2.6-install.tar.gz",
+  "total_size": 43308217,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_03",
+      "size": 20971520,
+      "sha256": "9f7ef8016354704961622351267ae8bfda573dcc3aaca1143cfb5c704f401397"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_03",
+      "size": 20971520,
+      "sha256": "06990c254077eb5498ee16e454e817db23c48835717308c97f7feb46e80a4fe1"
+    },
+    {
+      "index": 3,
+      "name": "part_03_of_03",
+      "size": 1365177,
+      "sha256": "a4b1b01fdba47a3b75202be658a79273bc8b58f50e331f9e7f7b114b8595a467"
+    }
+  ],
+  "created_at": "2025-11-13T10:26:30.449997915Z"
+}
