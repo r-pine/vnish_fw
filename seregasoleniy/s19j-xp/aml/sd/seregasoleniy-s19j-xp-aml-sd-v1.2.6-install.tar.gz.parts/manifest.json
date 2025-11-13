@@ -1,0 +1,26 @@
+{
+  "original_file": "seregasoleniy-s19j-xp-aml-sd-v1.2.6-install.tar.gz",
+  "total_size": 43319478,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_03",
+      "size": 20971520,
+      "sha256": "b87b5bf8fc4666c6702694a84f65838d71bbdc12e36f35a09af75391b33caf7e"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_03",
+      "size": 20971520,
+      "sha256": "40027cdadc331b5d676d25daaa1c1d406461b02b5e594bd74d4eacd993279730"
+    },
+    {
+      "index": 3,
+      "name": "part_03_of_03",
+      "size": 1376438,
+      "sha256": "50398c303a89cc9da63386f3c7950d186f92e93f15df58d55d92a643e435e4fc"
+    }
+  ],
+  "created_at": "2025-11-13T10:39:26.753292296Z"
+}
