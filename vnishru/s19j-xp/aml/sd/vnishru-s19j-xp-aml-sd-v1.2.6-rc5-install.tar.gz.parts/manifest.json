@@ -1,0 +1,26 @@
+{
+  "original_file": "vnishru-s19j-xp-aml-sd-v1.2.6-rc5-install.tar.gz",
+  "total_size": 43579082,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_03",
+      "size": 20971520,
+      "sha256": "2074ede721b6ffd4a133048a2003380923c9efe334a37fb85b78518c52ff87b1"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_03",
+      "size": 20971520,
+      "sha256": "7738e2979d142fc9d565a1819ca8d96c26b6a887a4d5fffd7d3ec6fdf9bb5b77"
+    },
+    {
+      "index": 3,
+      "name": "part_03_of_03",
+      "size": 1636042,
+      "sha256": "961c9875d9e509d1b2720774869bb41221096b13fbc72ce01c479da39e1a6463"
+    }
+  ],
+  "created_at": "2025-11-13T10:33:42.117415879Z"
+}
