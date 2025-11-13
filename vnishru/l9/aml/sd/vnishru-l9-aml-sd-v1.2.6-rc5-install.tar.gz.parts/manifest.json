@@ -1,0 +1,26 @@
+{
+  "original_file": "vnishru-l9-aml-sd-v1.2.6-rc5-install.tar.gz",
+  "total_size": 43572288,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_03",
+      "size": 20971520,
+      "sha256": "75548572a39b86f63d8200ab89d21581cb16b439cf5c938442be950d6c4786f6"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_03",
+      "size": 20971520,
+      "sha256": "1caf3b2882b19b3641a424417cb0023f3f52d78ceddf61313b9d61c30c97ff56"
+    },
+    {
+      "index": 3,
+      "name": "part_03_of_03",
+      "size": 1629248,
+      "sha256": "50ab3f247a83c922c8e6154ac9eb5eeabc8480b2e83c9d4642016641d17d25ba"
+    }
+  ],
+  "created_at": "2025-11-13T10:32:55.897816272Z"
+}
