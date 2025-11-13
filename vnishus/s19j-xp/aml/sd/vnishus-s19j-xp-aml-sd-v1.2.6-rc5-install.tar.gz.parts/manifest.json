@@ -1,0 +1,26 @@
+{
+  "original_file": "vnishus-s19j-xp-aml-sd-v1.2.6-rc5-install.tar.gz",
+  "total_size": 43578273,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_03",
+      "size": 20971520,
+      "sha256": "6a36d96096dc545e03970f4e99c206b027cc9d0d96e946935a27189638064611"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_03",
+      "size": 20971520,
+      "sha256": "a1bf040c02b7cbaa6e63c2f758b21ea07c2262e76ccc0b90da89a54e98e0e333"
+    },
+    {
+      "index": 3,
+      "name": "part_03_of_03",
+      "size": 1635233,
+      "sha256": "2f30807470444a4165b40615a7b7cd8aa5a7aacb226a4962078da07277633c57"
+    }
+  ],
+  "created_at": "2025-11-13T10:23:04.168051798Z"
+}
