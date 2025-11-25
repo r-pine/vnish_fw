@@ -1,0 +1,26 @@
+{
+  "original_file": "smc-s21plus-aml-sd-v1.2.6-rc5-install.tar.gz",
+  "total_size": 43604874,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_03",
+      "size": 20971520,
+      "sha256": "0973168a75516c807b30ba51f498f9480d8778effbb9773ced7a7fd303d18d82"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_03",
+      "size": 20971520,
+      "sha256": "8fa327f19ee45e58be6a91e5ceb4aa83af36199c83c599c85e6a2ee2e8b745d8"
+    },
+    {
+      "index": 3,
+      "name": "part_03_of_03",
+      "size": 1661834,
+      "sha256": "eaf484ece7bfbfc0e9db54845bd7d4b984530ad4291c5ae7354d980bd03756ce"
+    }
+  ],
+  "created_at": "2025-11-25T10:47:56.897054123Z"
+}
