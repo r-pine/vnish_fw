@@ -1,0 +1,26 @@
+{
+  "original_file": "smc-s19j-plus-aml-sd-v1.2.6-install.tar.gz",
+  "total_size": 43353335,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_03",
+      "size": 20971520,
+      "sha256": "6224cb569be0633d66bc2283ac7b400827b753949fb5ab00b212563a87afe915"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_03",
+      "size": 20971520,
+      "sha256": "63402ad97c96b1f65286963bcfc41725b4903cdc7f2aeb2ddc50bb8d59c914ae"
+    },
+    {
+      "index": 3,
+      "name": "part_03_of_03",
+      "size": 1410295,
+      "sha256": "0ab90ed4f94c3aff90537969db5c2bac38caa92b806601e027c33298a26b1b7d"
+    }
+  ],
+  "created_at": "2025-11-25T10:58:45.474358809Z"
+}
