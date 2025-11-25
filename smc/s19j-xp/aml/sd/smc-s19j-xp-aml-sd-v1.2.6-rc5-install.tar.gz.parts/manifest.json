@@ -1,0 +1,26 @@
+{
+  "original_file": "smc-s19j-xp-aml-sd-v1.2.6-rc5-install.tar.gz",
+  "total_size": 43608315,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_03",
+      "size": 20971520,
+      "sha256": "7d0d1e6a477c7c07c4f66cb5b9d82e29f41440d8445dd06aed5aa5073b70daa9"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_03",
+      "size": 20971520,
+      "sha256": "2fd0d90d8aa7f2a852995ee4437b2334bc3d1f1a4df8d842dc0f733d31fcc7a9"
+    },
+    {
+      "index": 3,
+      "name": "part_03_of_03",
+      "size": 1665275,
+      "sha256": "afdf0763908baf3ae6cd6024a44536d9cebd49059f8042c23076ea6d81c1d70b"
+    }
+  ],
+  "created_at": "2025-11-25T11:07:09.345047576Z"
+}
