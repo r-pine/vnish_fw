@@ -1,0 +1,26 @@
+{
+  "original_file": "smc-s19jpro-a-aml-sd-v1.2.6-rc5-install.tar.gz",
+  "total_size": 43600426,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_03",
+      "size": 20971520,
+      "sha256": "bbe1e281988bab2ed24ccd4a67d7d6549e8af9063a891f3140336be09f6a9a62"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_03",
+      "size": 20971520,
+      "sha256": "872b9715232858ec051ee150b1391dda4db30679d305bac79a9560c38ba6c98f"
+    },
+    {
+      "index": 3,
+      "name": "part_03_of_03",
+      "size": 1657386,
+      "sha256": "a46bf438fbbececb7282b3ea4b6764c2badf89322f6e9b877f6593156410a105"
+    }
+  ],
+  "created_at": "2025-11-25T10:45:57.523565161Z"
+}
