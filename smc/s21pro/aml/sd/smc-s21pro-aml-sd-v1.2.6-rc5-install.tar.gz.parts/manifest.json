@@ -1,0 +1,26 @@
+{
+  "original_file": "smc-s21pro-aml-sd-v1.2.6-rc5-install.tar.gz",
+  "total_size": 43608292,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_03",
+      "size": 20971520,
+      "sha256": "4b1d458c5ba828fc69e9ddce2637122ec972ca648fb6570ab71e52590bd7f471"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_03",
+      "size": 20971520,
+      "sha256": "a8d0da09f0127ea94ca588983bfaf1fb34236ea758f636c296b1c5ca821fcfd3"
+    },
+    {
+      "index": 3,
+      "name": "part_03_of_03",
+      "size": 1665252,
+      "sha256": "f7f822b23aa58cf54c6eec2ba1b55476fda11db0f36d3ebb809864673b18370d"
+    }
+  ],
+  "created_at": "2025-11-25T10:51:49.578590513Z"
+}
