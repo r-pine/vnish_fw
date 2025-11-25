@@ -1,0 +1,26 @@
+{
+  "original_file": "smc-t21-aml-sd-v1.2.6-rc5-install.tar.gz",
+  "total_size": 43601973,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_03",
+      "size": 20971520,
+      "sha256": "1e6d795553c2b35d741a58de5b45a9db0835c28c916362d7e2aae392caf709e8"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_03",
+      "size": 20971520,
+      "sha256": "8fd1a5dbef4ef2b5cd2d2a7910ee6d1338aca0ad706bc9975191ec4d7dc7b32e"
+    },
+    {
+      "index": 3,
+      "name": "part_03_of_03",
+      "size": 1658933,
+      "sha256": "cf5bca7e8448c91ca626e903f79678ab152ed0fd49123b3840601e405b1f1546"
+    }
+  ],
+  "created_at": "2025-11-25T10:59:39.081780285Z"
+}
