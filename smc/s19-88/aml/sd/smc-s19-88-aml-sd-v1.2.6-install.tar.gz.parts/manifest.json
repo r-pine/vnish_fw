@@ -1,0 +1,26 @@
+{
+  "original_file": "smc-s19-88-aml-sd-v1.2.6-install.tar.gz",
+  "total_size": 43353322,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_03",
+      "size": 20971520,
+      "sha256": "a006210e43c32f0d3102227500b18e3fd9f142eefb498913c520b6e52cc62e30"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_03",
+      "size": 20971520,
+      "sha256": "550f22a2c751774f5c34b119ceb53fa36291d8fd8b4fd4007989c6a1005b1a5d"
+    },
+    {
+      "index": 3,
+      "name": "part_03_of_03",
+      "size": 1410282,
+      "sha256": "d46462ec8c41a3e64cd8b5d9126cf3ec8216cdaafb533f300d768ff8bf23702d"
+    }
+  ],
+  "created_at": "2025-11-25T10:55:55.509635718Z"
+}
