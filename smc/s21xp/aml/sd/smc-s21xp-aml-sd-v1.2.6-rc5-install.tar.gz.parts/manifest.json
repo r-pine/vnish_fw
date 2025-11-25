@@ -1,0 +1,26 @@
+{
+  "original_file": "smc-s21xp-aml-sd-v1.2.6-rc5-install.tar.gz",
+  "total_size": 43606768,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_03",
+      "size": 20971520,
+      "sha256": "f87aea7e0af5e433d2f6a32a0cdb6a4a1d4c0aab35a6796788c0a7f3143cb1f4"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_03",
+      "size": 20971520,
+      "sha256": "1573dcb95b28fdb0fa93ee6afef6f63bff7b3e012ce476570a0d0f5625c2a08c"
+    },
+    {
+      "index": 3,
+      "name": "part_03_of_03",
+      "size": 1663728,
+      "sha256": "3fd89cd7ba477b25dbce161c98f17387d87705c04b6d90c51e4219cbea37245d"
+    }
+  ],
+  "created_at": "2025-11-25T10:52:44.679034161Z"
+}
