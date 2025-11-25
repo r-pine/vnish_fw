@@ -1,0 +1,26 @@
+{
+  "original_file": "smc-s19kpro-aml-sd-v1.2.6-install.tar.gz",
+  "total_size": 43346572,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_03",
+      "size": 20971520,
+      "sha256": "5b32000ad944ef212e71a8faa84e5ffb7f3f088834160e2dc28a1340c51d2d70"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_03",
+      "size": 20971520,
+      "sha256": "360b3864717e4dc4011bcdffed8d77005e8557c6d70aa10803d3866f75810f14"
+    },
+    {
+      "index": 3,
+      "name": "part_03_of_03",
+      "size": 1403532,
+      "sha256": "523a00dfe9357f7bababaea719e83d22c42186c243d98265fe556f7374d5c7b9"
+    }
+  ],
+  "created_at": "2025-11-25T10:26:21.761520446Z"
+}
