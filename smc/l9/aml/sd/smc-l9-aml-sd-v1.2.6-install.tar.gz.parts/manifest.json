@@ -1,0 +1,26 @@
+{
+  "original_file": "smc-l9-aml-sd-v1.2.6-install.tar.gz",
+  "total_size": 43341648,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_03",
+      "size": 20971520,
+      "sha256": "12590b5e3e00060de1e34eab3f8f20a9cad37cfcbd3629ef0f00627637849521"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_03",
+      "size": 20971520,
+      "sha256": "8ca2e16fde66b5b525dfd55f514d9680b1bcc65de4db5d248ec70ba476dabd97"
+    },
+    {
+      "index": 3,
+      "name": "part_03_of_03",
+      "size": 1398608,
+      "sha256": "422115d66abb0ea9d41e5cafb39752dfb20fdcf852570f2a5a40057c2bda23da"
+    }
+  ],
+  "created_at": "2025-11-25T10:30:35.951631743Z"
+}
