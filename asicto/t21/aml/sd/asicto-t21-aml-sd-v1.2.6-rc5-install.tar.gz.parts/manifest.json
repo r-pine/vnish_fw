@@ -1,0 +1,26 @@
+{
+  "original_file": "asicto-t21-aml-sd-v1.2.6-rc5-install.tar.gz",
+  "total_size": 43655825,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_03",
+      "size": 20971520,
+      "sha256": "49a286becc128eb97825b8fdf41e0b0e072725ad9a8774c76cdf871db3448d90"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_03",
+      "size": 20971520,
+      "sha256": "e6c5cc8ccac41e3f78a3d2396c2ecad01f199a12a8543d891e109dc568aad0c2"
+    },
+    {
+      "index": 3,
+      "name": "part_03_of_03",
+      "size": 1712785,
+      "sha256": "b95a02b862a82015ff2418e4d19e63cefe7e030cbd0e76a03db299080ff27532"
+    }
+  ],
+  "created_at": "2026-02-14T20:28:22.965392117Z"
+}
