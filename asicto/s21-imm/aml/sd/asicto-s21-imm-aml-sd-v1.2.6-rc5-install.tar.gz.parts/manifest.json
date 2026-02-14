@@ -1,0 +1,26 @@
+{
+  "original_file": "asicto-s21-imm-aml-sd-v1.2.6-rc5-install.tar.gz",
+  "total_size": 43661663,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_03",
+      "size": 20971520,
+      "sha256": "c380c4b665c550b8f9830ee30eb6d422bfeba54cc5cda1077486acd680b4245f"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_03",
+      "size": 20971520,
+      "sha256": "e64401fcc331dae484623032888aa63bbb767deb1a13bd07b05588751dcf1671"
+    },
+    {
+      "index": 3,
+      "name": "part_03_of_03",
+      "size": 1718623,
+      "sha256": "7343c4c34ab4f42fd35071d5dff8ee99997a65263af9fef18c328b3e62901308"
+    }
+  ],
+  "created_at": "2026-02-14T20:14:35.650816216Z"
+}
