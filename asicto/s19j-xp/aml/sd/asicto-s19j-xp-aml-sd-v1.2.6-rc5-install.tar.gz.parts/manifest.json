@@ -1,0 +1,26 @@
+{
+  "original_file": "asicto-s19j-xp-aml-sd-v1.2.6-rc5-install.tar.gz",
+  "total_size": 43661833,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_03",
+      "size": 20971520,
+      "sha256": "026aec114c8e4627b4b31ae980584d6d065a90216f353dbbbfa687ebf31e95f6"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_03",
+      "size": 20971520,
+      "sha256": "061e3eafa4d3a3b5ca9ff906ec25f7be27f9a151dbe86aaac7d7b67124726ffc"
+    },
+    {
+      "index": 3,
+      "name": "part_03_of_03",
+      "size": 1718793,
+      "sha256": "b2d2529e36d8ccdb11628351ccfad7c5952d81d5e050c65b07b1db09dc032ecf"
+    }
+  ],
+  "created_at": "2026-02-14T19:59:33.365047616Z"
+}
