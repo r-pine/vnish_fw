@@ -1,0 +1,26 @@
+{
+  "original_file": "vnishus-s21pro-aml-sd-v1.2.6-install.zip",
+  "total_size": 44964298,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_03",
+      "size": 20971520,
+      "sha256": "d6fd6e5c17f075b63325cac1ab60be8913c6a9ea78cd20756686a8deade4b51d"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_03",
+      "size": 20971520,
+      "sha256": "5909d79229dca12eda0c160db930f6d0aaea1a1160d14a5f2ba0d5da2e9988f4"
+    },
+    {
+      "index": 3,
+      "name": "part_03_of_03",
+      "size": 3021258,
+      "sha256": "e05da7dd3cd6b3e257ab74ad024dd2d27dccd6eac7c50033c851455f55985bd2"
+    }
+  ],
+  "created_at": "2026-02-18T10:02:58.321250099Z"
+}
