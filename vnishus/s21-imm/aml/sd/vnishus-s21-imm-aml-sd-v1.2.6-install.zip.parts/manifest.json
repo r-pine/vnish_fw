@@ -1,0 +1,26 @@
+{
+  "original_file": "vnishus-s21-imm-aml-sd-v1.2.6-install.zip",
+  "total_size": 44959076,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_03",
+      "size": 20971520,
+      "sha256": "99e22180dc756665fe3d0375917dbda3b9285d69f6732bdb6d381a3304270a23"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_03",
+      "size": 20971520,
+      "sha256": "6d4d8eff9f7c4d934aa60b9e1cd94e18836482c71814c63cf845c212a9727f4b"
+    },
+    {
+      "index": 3,
+      "name": "part_03_of_03",
+      "size": 3016036,
+      "sha256": "ad5ecca7083fbfbc455374cb36ba588ed2968dd300626cc99112455caf0e174b"
+    }
+  ],
+  "created_at": "2026-02-18T10:01:51.212366792Z"
+}
