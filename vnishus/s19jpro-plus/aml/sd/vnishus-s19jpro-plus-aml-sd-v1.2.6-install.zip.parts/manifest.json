@@ -1,0 +1,26 @@
+{
+  "original_file": "vnishus-s19jpro-plus-aml-sd-v1.2.6-install.zip",
+  "total_size": 44954516,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_03",
+      "size": 20971520,
+      "sha256": "bc6c3ea46dcb123e59717289aa525dd8ab13a9409c6da08cfaacc35f0945b187"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_03",
+      "size": 20971520,
+      "sha256": "7dc031c2e95eaad1b4236ec083fbea591289cea225cd54e593b07c7a6b583478"
+    },
+    {
+      "index": 3,
+      "name": "part_03_of_03",
+      "size": 3011476,
+      "sha256": "bb7e3b622175981bca5a6e40248d38725028c1267bd4ebfa0d87332e50546c1a"
+    }
+  ],
+  "created_at": "2026-02-18T09:56:54.254586155Z"
+}
