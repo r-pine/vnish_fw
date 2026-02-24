@@ -1,0 +1,26 @@
+{
+  "original_file": "asicto-s19-88-aml-sd-v1.2.6-install.tar.gz",
+  "total_size": 43400228,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_03",
+      "size": 20971520,
+      "sha256": "0813824cb8d46a67f44c8fbdb637df93267560be931d1d95528dcc46ab660d9d"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_03",
+      "size": 20971520,
+      "sha256": "9fab38c616df11f34c91020096b309a39f3d8d1613bb0fcb64606624356d673c"
+    },
+    {
+      "index": 3,
+      "name": "part_03_of_03",
+      "size": 1457188,
+      "sha256": "ef99aa5c511c1806f4041824c1a7ef1b51f3dfc6bf30312a229b2b6882062bb9"
+    }
+  ],
+  "created_at": "2026-02-24T12:48:36.043561441Z"
+}
