@@ -1,0 +1,26 @@
+{
+  "original_file": "asicto-l9-aml-sd-v1.2.6-install.tar.gz",
+  "total_size": 43385865,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_03",
+      "size": 20971520,
+      "sha256": "0750dd6ea924e29d3e348e4992dc5eb9c72f54cca50aa605c9913d6995b09988"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_03",
+      "size": 20971520,
+      "sha256": "f47aaca322d20a5aaeebdb389898866a52f1754dceae3aaef6b44ee0c4656fbf"
+    },
+    {
+      "index": 3,
+      "name": "part_03_of_03",
+      "size": 1442825,
+      "sha256": "72e7283425168fec3d45f227a2011e029729e86012a1010fb48c1ded88709316"
+    }
+  ],
+  "created_at": "2026-02-24T12:46:04.514877841Z"
+}
