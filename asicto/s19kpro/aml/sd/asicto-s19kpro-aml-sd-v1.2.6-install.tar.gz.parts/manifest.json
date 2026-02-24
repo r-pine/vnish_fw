@@ -1,0 +1,26 @@
+{
+  "original_file": "asicto-s19kpro-aml-sd-v1.2.6-install.tar.gz",
+  "total_size": 43397545,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_03",
+      "size": 20971520,
+      "sha256": "be03636e454876e0fac6e492a540e93b635245be6cca3759ce4bbbbcb148e681"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_03",
+      "size": 20971520,
+      "sha256": "d274118e8c1dd86f159d96386f409f770203675570311c2ed4a97c33ade6ff48"
+    },
+    {
+      "index": 3,
+      "name": "part_03_of_03",
+      "size": 1454505,
+      "sha256": "ebb0030c06ef4327be065709691f85de0c29dbc27ecca336cc5105b1c1f53b50"
+    }
+  ],
+  "created_at": "2026-02-24T13:05:18.138736442Z"
+}
