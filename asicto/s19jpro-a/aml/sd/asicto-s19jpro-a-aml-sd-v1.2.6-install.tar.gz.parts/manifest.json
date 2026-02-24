@@ -1,0 +1,26 @@
+{
+  "original_file": "asicto-s19jpro-a-aml-sd-v1.2.6-install.tar.gz",
+  "total_size": 43402400,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_03",
+      "size": 20971520,
+      "sha256": "99fa6ef048dd9c6148911326f7350d7c44685aec75d5a631dcb7cd4ca8b835d0"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_03",
+      "size": 20971520,
+      "sha256": "31a2d713e060eb599e355bd53253b8f3d1c416fb85ac192927db70bf67cd811d"
+    },
+    {
+      "index": 3,
+      "name": "part_03_of_03",
+      "size": 1459360,
+      "sha256": "313e041e6f365f526faa2c48b5384a71587095d0477bcaffae2bf362b5ee7272"
+    }
+  ],
+  "created_at": "2026-02-24T13:01:27.566138566Z"
+}
