@@ -1,0 +1,26 @@
+{
+  "original_file": "asicto-s21pro-aml-sd-v1.2.6-install.tar.gz",
+  "total_size": 43395829,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_03",
+      "size": 20971520,
+      "sha256": "bf9c1180dd683f12e138fab298d9ee7ab8f7cf8b67e376dc0e6d1bdc7df2a868"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_03",
+      "size": 20971520,
+      "sha256": "314601829ae5d60af46bf53f5fe3447f7e76f4a3aa1d0ce3c72c3200d4494ae5"
+    },
+    {
+      "index": 3,
+      "name": "part_03_of_03",
+      "size": 1452789,
+      "sha256": "711777feefc9c9835e2fa9da791a6d179492330d93187c9a0107621a740600f3"
+    }
+  ],
+  "created_at": "2026-02-24T13:16:38.254786934Z"
+}
