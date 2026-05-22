@@ -1,0 +1,20 @@
+{
+  "original_file": "vnish-official-s19j-bb-nand-v1.3.3-update.tar.gz",
+  "total_size": 21595703,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_02",
+      "size": 20971520,
+      "sha256": "71ae6dacb58d0a2d9d3a47b2b1c885da9fd66ee38e7600dc74ec3fe372179b49"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_02",
+      "size": 624183,
+      "sha256": "a60d7a6bd7b199aa1230d860c332a41c055dde513d699ea5963ede387f064b1a"
+    }
+  ],
+  "created_at": "2026-05-22T18:54:36.46057745Z"
+}
