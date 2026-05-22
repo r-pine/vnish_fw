@@ -1,0 +1,20 @@
+{
+  "original_file": "vnish-official-s19pro-plus-hydro-xil-nand-v1.3.3-update.tar.gz",
+  "total_size": 21349936,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_02",
+      "size": 20971520,
+      "sha256": "1386352a83cc80818161604f81737036ed527cca0cf279e49f1fb46eb9a567ce"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_02",
+      "size": 378416,
+      "sha256": "760d252f392e9bb9da2ca5a6c54c53f1de83a0e1f774f0395db931e5418694f2"
+    }
+  ],
+  "created_at": "2026-05-22T19:01:54.327661368Z"
+}
