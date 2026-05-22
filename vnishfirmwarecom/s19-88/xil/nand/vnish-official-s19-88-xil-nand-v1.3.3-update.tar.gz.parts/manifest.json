@@ -1,0 +1,20 @@
+{
+  "original_file": "vnish-official-s19-88-xil-nand-v1.3.3-update.tar.gz",
+  "total_size": 21342147,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_02",
+      "size": 20971520,
+      "sha256": "26155579dbff2beea88e2f847455412d42527503efe01077ea6a267fc3ae05c1"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_02",
+      "size": 370627,
+      "sha256": "9a4f8f6953b0d2b5b28f1c3e4e0c9a25803c2cd55c65d2365719f003acf78f9e"
+    }
+  ],
+  "created_at": "2026-05-22T18:52:23.382198314Z"
+}
