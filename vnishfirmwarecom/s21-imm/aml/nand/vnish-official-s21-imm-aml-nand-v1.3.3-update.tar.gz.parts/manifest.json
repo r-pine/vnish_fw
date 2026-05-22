@@ -1,0 +1,20 @@
+{
+  "original_file": "vnish-official-s21-imm-aml-nand-v1.3.3-update.tar.gz",
+  "total_size": 21419907,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_02",
+      "size": 20971520,
+      "sha256": "69a6048c54f0c3b9378abbbaf40123bea6daee35764d5736c0c5d70f0aff5b58"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_02",
+      "size": 448387,
+      "sha256": "c79b2e43f84e2e86b26e742e3b304567da083b5ee83749801b0bd287a5246a2c"
+    }
+  ],
+  "created_at": "2026-05-22T19:04:52.466763294Z"
+}
