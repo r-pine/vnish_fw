@@ -1,0 +1,20 @@
+{
+  "original_file": "vnish-official-t21-xil-nand-v1.3.3-update.tar.gz",
+  "total_size": 21341492,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_02",
+      "size": 20971520,
+      "sha256": "2f1a410b8ebf235b56af3099e6d48e88c15bb5063cb7995d8b570e1574830a12"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_02",
+      "size": 369972,
+      "sha256": "642b5a4d18e67d1a7e5c1b554863fc15e03309b6e6db5c559555dece0cdabb60"
+    }
+  ],
+  "created_at": "2026-05-22T19:09:03.86904976Z"
+}
