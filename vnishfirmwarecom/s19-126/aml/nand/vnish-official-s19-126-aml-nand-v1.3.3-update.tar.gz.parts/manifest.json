@@ -1,0 +1,20 @@
+{
+  "original_file": "vnish-official-s19-126-aml-nand-v1.3.3-update.tar.gz",
+  "total_size": 21433431,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_02",
+      "size": 20971520,
+      "sha256": "ffc861868350610a7b41abc129de7f1b419a01b5682e2c332689e714704cf3b2"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_02",
+      "size": 461911,
+      "sha256": "2a08ae46889a9af2589ff5c64e3af00e568c2ed16ed31ffe7b720c33149a717e"
+    }
+  ],
+  "created_at": "2026-05-22T18:50:58.401892259Z"
+}
