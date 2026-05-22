@@ -1,0 +1,20 @@
+{
+  "original_file": "vnish-official-s21xp-hydro-xil-nand-v1.3.3-update.tar.gz",
+  "total_size": 21344521,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_02",
+      "size": 20971520,
+      "sha256": "d647ff0c3712fb5a952b5b82d2c28dbbbc61fac2b399cf070ab7e993cbd346a0"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_02",
+      "size": 373001,
+      "sha256": "5281506ded01f1d955014541707f68fe98109c2ab849d5254474c19d1be3b9ef"
+    }
+  ],
+  "created_at": "2026-05-22T19:07:11.736586322Z"
+}
