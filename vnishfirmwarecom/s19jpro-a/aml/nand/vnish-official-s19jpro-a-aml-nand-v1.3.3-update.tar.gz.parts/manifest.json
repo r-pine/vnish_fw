@@ -1,0 +1,20 @@
+{
+  "original_file": "vnish-official-s19jpro-a-aml-nand-v1.3.3-update.tar.gz",
+  "total_size": 21432629,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_02",
+      "size": 20971520,
+      "sha256": "157e291349081bae28b5a17c50ca870eb2b52f7416559dc65a8c9b30b5af6bd0"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_02",
+      "size": 461109,
+      "sha256": "aa94ec7c0d578f6515a7120a4ea2cd7d4e956e53528c39c94cafb79393e099f8"
+    }
+  ],
+  "created_at": "2026-05-22T18:57:18.054327713Z"
+}
