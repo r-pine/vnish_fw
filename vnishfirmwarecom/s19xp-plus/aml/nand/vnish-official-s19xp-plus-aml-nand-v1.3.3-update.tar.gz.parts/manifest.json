@@ -1,0 +1,20 @@
+{
+  "original_file": "vnish-official-s19xp-plus-aml-nand-v1.3.3-update.tar.gz",
+  "total_size": 21430358,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_02",
+      "size": 20971520,
+      "sha256": "08db8ee9b638cf9edd9df5cf316de32e2e60a3b85a086b9eafbcf8e62b0951cd"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_02",
+      "size": 458838,
+      "sha256": "00d6aa7d781ba8fa263bb6c93c3c845c210ba9e4ca313e143325992fc8115ce4"
+    }
+  ],
+  "created_at": "2026-05-22T19:03:32.121722527Z"
+}
