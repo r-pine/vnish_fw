@@ -1,0 +1,20 @@
+{
+  "original_file": "vnishus-s19xp-plus-hydro-xil-nand-v1.3.3-update.tar.gz",
+  "total_size": 21338815,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_02",
+      "size": 20971520,
+      "sha256": "1dbd3c26d92bc50c46c6059d718ff2e67b3bd41b02e559be274c7bb61c371e25"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_02",
+      "size": 367295,
+      "sha256": "e7e959266175c99ee2527c424e55eebe15cca239ae14dc7dc7d077609f6b21af"
+    }
+  ],
+  "created_at": "2026-06-05T07:50:37.995915219Z"
+}
