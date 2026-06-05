@@ -1,0 +1,20 @@
+{
+  "original_file": "vnishus-s19jpro-aml-nand-v1.3.3-update.tar.gz",
+  "total_size": 21416168,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_02",
+      "size": 20971520,
+      "sha256": "a40ec63416a5842a075c2f535ac61b1e6d1df3d3cabfff55b1d0da52e6c31186"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_02",
+      "size": 444648,
+      "sha256": "d6dcd99a833b890ad8115503f5dfa46546402d1b82ff6d8fc42ea226fcffd7f4"
+    }
+  ],
+  "created_at": "2026-06-05T07:42:14.783633051Z"
+}
