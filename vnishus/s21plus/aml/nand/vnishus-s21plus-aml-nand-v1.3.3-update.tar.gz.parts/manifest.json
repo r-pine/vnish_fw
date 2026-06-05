@@ -1,0 +1,20 @@
+{
+  "original_file": "vnishus-s21plus-aml-nand-v1.3.3-update.tar.gz",
+  "total_size": 21425985,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_02",
+      "size": 20971520,
+      "sha256": "9bfb90a8331481dd7af4907e364552e2a8147da0cedc8a1b0ce677082c494ef5"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_02",
+      "size": 454465,
+      "sha256": "d9396ed5da2169cdb012f8b0594d73885a8131930d3eb5cf50943a683a2d519c"
+    }
+  ],
+  "created_at": "2026-06-05T07:52:32.089630721Z"
+}
