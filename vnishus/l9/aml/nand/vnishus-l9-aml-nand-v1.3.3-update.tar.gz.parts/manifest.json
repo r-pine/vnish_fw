@@ -1,0 +1,20 @@
+{
+  "original_file": "vnishus-l9-aml-nand-v1.3.3-update.tar.gz",
+  "total_size": 21427476,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_02",
+      "size": 20971520,
+      "sha256": "352eab307b0dd93e651970c257269fb1237779dc8062bc172452f20a694e6cb8"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_02",
+      "size": 455956,
+      "sha256": "3e88396aec03e82c372f8168bac0c1167d735a65027502ee48844d746fdc7bf6"
+    }
+  ],
+  "created_at": "2026-06-05T07:24:11.582531182Z"
+}
