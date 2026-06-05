@@ -1,0 +1,20 @@
+{
+  "original_file": "vnishus-t21-xil-nand-v1.3.3-update.tar.gz",
+  "total_size": 21340626,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_02",
+      "size": 20971520,
+      "sha256": "5f34437fb09272063d34a8cde445370fdc49f269593d65f8d2f837c802974fcc"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_02",
+      "size": 369106,
+      "sha256": "467ebe7fed16d21123939962064dfa355138833ffe545a22abbcfff16263fd23"
+    }
+  ],
+  "created_at": "2026-06-05T07:56:05.363107471Z"
+}
