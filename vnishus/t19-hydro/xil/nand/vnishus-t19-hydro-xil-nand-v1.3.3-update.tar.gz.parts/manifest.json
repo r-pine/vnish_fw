@@ -1,0 +1,20 @@
+{
+  "original_file": "vnishus-t19-hydro-xil-nand-v1.3.3-update.tar.gz",
+  "total_size": 21341613,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_02",
+      "size": 20971520,
+      "sha256": "a263947d7319b8c3696fe3b88519619881132275cbf5be878d312f282a7f3eba"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_02",
+      "size": 370093,
+      "sha256": "d57f73b240e1c424de8edff5eee9fad7f774b6552b74d7445370b3287a880b6e"
+    }
+  ],
+  "created_at": "2026-06-05T07:54:34.316667932Z"
+}
