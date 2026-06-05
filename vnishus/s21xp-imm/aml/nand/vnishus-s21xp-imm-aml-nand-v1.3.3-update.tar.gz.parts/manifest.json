@@ -1,0 +1,20 @@
+{
+  "original_file": "vnishus-s21xp-imm-aml-nand-v1.3.3-update.tar.gz",
+  "total_size": 21425553,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_02",
+      "size": 20971520,
+      "sha256": "56ad087b45049384fc8f36c8354e9ced1cdfb4b55dd0cbc24739698c2e314ce0"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_02",
+      "size": 454033,
+      "sha256": "f2f11de70f45bf26870c9e0569625369247244fb58a9e4a3a26e9f2fe58a8fdf"
+    }
+  ],
+  "created_at": "2026-06-05T07:54:19.734291295Z"
+}
