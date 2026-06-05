@@ -1,0 +1,20 @@
+{
+  "original_file": "vnishus-l7-xil-nand-v1.3.3-update.tar.gz",
+  "total_size": 21335291,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_02",
+      "size": 20971520,
+      "sha256": "84476e2009e75b1bef332e099d31c09deda92d84838bfb68e1fb7b8fa7b552df"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_02",
+      "size": 363771,
+      "sha256": "04624702809190def9ed1679f4ffceed481e03de7203835bfa674f72bf4a6e4b"
+    }
+  ],
+  "created_at": "2026-06-05T07:23:39.240340681Z"
+}
