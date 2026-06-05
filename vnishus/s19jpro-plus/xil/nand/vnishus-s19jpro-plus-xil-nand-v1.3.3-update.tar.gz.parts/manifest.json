@@ -1,0 +1,20 @@
+{
+  "original_file": "vnishus-s19jpro-plus-xil-nand-v1.3.3-update.tar.gz",
+  "total_size": 21337864,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_02",
+      "size": 20971520,
+      "sha256": "93d8bb3aa8fcd7ea947736437392acd6735bcade273555786f593021aa63ba55"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_02",
+      "size": 366344,
+      "sha256": "9d29d615c1f5eb046d485d773013964bfad0f1dcfeb4062dd5411ca41e0ea028"
+    }
+  ],
+  "created_at": "2026-06-05T07:47:18.891326586Z"
+}
