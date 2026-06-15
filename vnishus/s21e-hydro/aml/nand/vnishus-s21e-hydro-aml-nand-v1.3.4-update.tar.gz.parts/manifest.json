@@ -1,0 +1,20 @@
+{
+  "original_file": "vnishus-s21e-hydro-aml-nand-v1.3.4-update.tar.gz",
+  "total_size": 26698697,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_02",
+      "size": 20971520,
+      "sha256": "151ba6f35a32d849ecef58f1c41763c88ca4c6f1ef7304e5c78ed09c966f5f82"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_02",
+      "size": 5727177,
+      "sha256": "095f98b2fccc260d9981b58883f05fdbc18f0c7d0ffdc09ff0cce3251697b822"
+    }
+  ],
+  "created_at": "2026-06-15T22:19:43.718807164Z"
+}
