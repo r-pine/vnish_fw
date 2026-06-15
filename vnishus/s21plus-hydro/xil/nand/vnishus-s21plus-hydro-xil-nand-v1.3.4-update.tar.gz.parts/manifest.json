@@ -1,0 +1,20 @@
+{
+  "original_file": "vnishus-s21plus-hydro-xil-nand-v1.3.4-update.tar.gz",
+  "total_size": 21329450,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_02",
+      "size": 20971520,
+      "sha256": "95d9a496f558ac91e910e62056a5c5cb0964f5cec0f72e129f21b4fcc199762a"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_02",
+      "size": 357930,
+      "sha256": "c33b4b5e4071b3d5a22f786d0f4446f887370a3cd9e9987d17ecc842d67507c3"
+    }
+  ],
+  "created_at": "2026-06-15T22:21:15.583715089Z"
+}
