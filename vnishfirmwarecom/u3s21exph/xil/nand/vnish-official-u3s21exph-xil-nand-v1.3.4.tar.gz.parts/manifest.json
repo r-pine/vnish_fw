@@ -1,0 +1,20 @@
+{
+  "original_file": "vnish-official-u3s21exph-xil-nand-v1.3.4.tar.gz",
+  "total_size": 21333659,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_02",
+      "size": 20971520,
+      "sha256": "0b44cb3fe87e4d6326ef93b9c50bb722bbffbb0c9bdc687b35c23cecb484e8b1"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_02",
+      "size": 362139,
+      "sha256": "eba7012c53af94cf9f9ac5a1fc40d460b9a44d646948a5ba2272bc239cba7246"
+    }
+  ],
+  "created_at": "2026-06-15T18:45:22.199220265Z"
+}
