@@ -1,0 +1,20 @@
+{
+  "original_file": "vnishus-s19-126-aml-nand-v1.3.4-update.tar.gz",
+  "total_size": 26693333,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_02",
+      "size": 20971520,
+      "sha256": "16ba2e9be0f5d08eab88ec3fda90cce7c5969880a20e32bccb4e90feb1d744b0"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_02",
+      "size": 5721813,
+      "sha256": "a3a9f18a8c01626181e50129904e83ac947b90720b06a978ab40072dd484d41d"
+    }
+  ],
+  "created_at": "2026-06-15T20:15:54.79431346Z"
+}
