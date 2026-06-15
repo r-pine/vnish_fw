@@ -1,0 +1,20 @@
+{
+  "original_file": "vnish-official-s19j-xil-nand-v1.3.4.tar.gz",
+  "total_size": 21333188,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_02",
+      "size": 20971520,
+      "sha256": "b34ef3a22b31dd586d27dcd22d4b4899d518e99f0239efc666ac37f4d1215a04"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_02",
+      "size": 361668,
+      "sha256": "46fef16a907c4bbd0348f69dbc91ecf6f0dc3feb7055125e91e4ae10e81c6c4f"
+    }
+  ],
+  "created_at": "2026-06-15T18:30:54.667122953Z"
+}
