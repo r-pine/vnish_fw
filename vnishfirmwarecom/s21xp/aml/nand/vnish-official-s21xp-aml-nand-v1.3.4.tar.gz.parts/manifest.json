@@ -1,0 +1,20 @@
+{
+  "original_file": "vnish-official-s21xp-aml-nand-v1.3.4.tar.gz",
+  "total_size": 26695610,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_02",
+      "size": 20971520,
+      "sha256": "21c61fa5674b91e080b16179d658d8fb7bb8474f96b53f2ef59f2cb5351fe8c5"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_02",
+      "size": 5724090,
+      "sha256": "32d2f60fc758acde4899e9825057ac31a0f3bf36e07ece2ec79c8a3db35b39df"
+    }
+  ],
+  "created_at": "2026-06-15T18:42:38.056066245Z"
+}
