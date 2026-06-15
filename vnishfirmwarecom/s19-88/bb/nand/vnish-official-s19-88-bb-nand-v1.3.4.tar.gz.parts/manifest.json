@@ -1,0 +1,20 @@
+{
+  "original_file": "vnish-official-s19-88-bb-nand-v1.3.4.tar.gz",
+  "total_size": 24403816,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_02",
+      "size": 20971520,
+      "sha256": "bf41a76f88be4fd91a7e064b823bab289ead34b5bc4430e5f1218165109fc8a0"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_02",
+      "size": 3432296,
+      "sha256": "e77758c2f25d985a663a64f28b1dc6d2141d1d53cb5406fbc56d940e225c6d5d"
+    }
+  ],
+  "created_at": "2026-06-15T18:26:25.267127906Z"
+}
