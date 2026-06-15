@@ -1,0 +1,20 @@
+{
+  "original_file": "vnish-official-s19j-xp-aml-nand-v1.3.4.tar.gz",
+  "total_size": 26688784,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_02",
+      "size": 20971520,
+      "sha256": "cdaa89a912179c88497f042f3b0410dc4c08080c09d46ca1d27bfc4b7b109708"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_02",
+      "size": 5717264,
+      "sha256": "9a4efc691541a42cdb502de6ebfb45ce9dee0746e0d0fdf93c13b62f617d2d16"
+    }
+  ],
+  "created_at": "2026-06-15T18:31:12.838075875Z"
+}
