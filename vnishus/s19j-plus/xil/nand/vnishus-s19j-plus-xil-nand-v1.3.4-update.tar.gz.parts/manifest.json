@@ -1,0 +1,20 @@
+{
+  "original_file": "vnishus-s19j-plus-xil-nand-v1.3.4-update.tar.gz",
+  "total_size": 21324920,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_02",
+      "size": 20971520,
+      "sha256": "cb1624cbc6d1378fb8b4c8ed5108e6f0780e1789fd5f204f6e53475957457246"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_02",
+      "size": 353400,
+      "sha256": "8d85d551bd8623a3dcda796de10a42c56cc6e6b6152ae22f0abbbdbe7f7d2315"
+    }
+  ],
+  "created_at": "2026-06-15T20:20:38.461434988Z"
+}
