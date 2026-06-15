@@ -1,0 +1,20 @@
+{
+  "original_file": "vnishus-s19kpro-xil-nand-v1.3.4-update.tar.gz",
+  "total_size": 21323655,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_02",
+      "size": 20971520,
+      "sha256": "63f1af4709ee9f5221c2baffe97f8dd2a86a434413be29bde651dba88ea71127"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_02",
+      "size": 352135,
+      "sha256": "27a1f62fb3266bdf133d0404480c52643723c08741e55be06fe3d88911f00c99"
+    }
+  ],
+  "created_at": "2026-06-15T22:15:09.502134385Z"
+}
