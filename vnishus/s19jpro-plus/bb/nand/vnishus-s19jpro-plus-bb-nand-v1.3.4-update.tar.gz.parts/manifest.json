@@ -1,0 +1,20 @@
+{
+  "original_file": "vnishus-s19jpro-plus-bb-nand-v1.3.4-update.tar.gz",
+  "total_size": 24409661,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_02",
+      "size": 20971520,
+      "sha256": "2ba7b6477cd9e8bd7e91d6110882c70f4d8fd6a1005fa8e2d905dfd31e4cda04"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_02",
+      "size": 3438141,
+      "sha256": "6d323e1f0d30a4d02d08303bdc07db950f1ab0e8976d268987ef5d758f953367"
+    }
+  ],
+  "created_at": "2026-06-15T22:13:39.602156288Z"
+}
