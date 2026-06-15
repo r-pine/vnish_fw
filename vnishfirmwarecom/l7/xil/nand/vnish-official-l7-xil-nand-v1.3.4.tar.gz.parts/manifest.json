@@ -1,0 +1,20 @@
+{
+  "original_file": "vnish-official-l7-xil-nand-v1.3.4.tar.gz",
+  "total_size": 21331538,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_02",
+      "size": 20971520,
+      "sha256": "b1892781f8776b6bc85f78aa397da59eb20bd68e57598bb00d49c98d95af958b"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_02",
+      "size": 360018,
+      "sha256": "f71573300547b02b79838de8ecbfd35352ccf659e18b7ef6598fcdef9bc6316c"
+    }
+  ],
+  "created_at": "2026-06-15T18:24:24.705234856Z"
+}
