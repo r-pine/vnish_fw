@@ -1,0 +1,20 @@
+{
+  "original_file": "vnish-official-t19pro-hydro-xil-nand-v1.3.4.tar.gz",
+  "total_size": 21329548,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_02",
+      "size": 20971520,
+      "sha256": "bdc97841a2ea36422ea51a7a5db21ccba3c1bf1c1299689e603e3fe783a416d1"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_02",
+      "size": 358028,
+      "sha256": "d33ab45cc3f2bab0ea394d6b9a3edb8c4dd06de71c2339a420f66581909908fc"
+    }
+  ],
+  "created_at": "2026-06-15T18:44:07.066673237Z"
+}
