@@ -1,0 +1,20 @@
+{
+  "original_file": "vnishus-u3s21exph-xil-nand-v1.3.4-update.tar.gz",
+  "total_size": 21322761,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_02",
+      "size": 20971520,
+      "sha256": "5cb6f0b8e4937ea6e2851785d21c19f38ae3415be31d127bc7254aaf2c0a6e5f"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_02",
+      "size": 351241,
+      "sha256": "baab9950256582ad6382319e101ed5f814e581ef85601bfb2daa92eaa22a5262"
+    }
+  ],
+  "created_at": "2026-06-15T22:24:55.236828247Z"
+}
