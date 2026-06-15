@@ -1,0 +1,20 @@
+{
+  "original_file": "vnishus-s19j-xp-aml-nand-v1.3.4-update.tar.gz",
+  "total_size": 26693652,
+  "chunk_size": 20971520,
+  "parts": [
+    {
+      "index": 1,
+      "name": "part_01_of_02",
+      "size": 20971520,
+      "sha256": "a94f2b6dc5a38af2d16f731395466614334146b82a1a36c06c9520a5053b9cb0"
+    },
+    {
+      "index": 2,
+      "name": "part_02_of_02",
+      "size": 5722132,
+      "sha256": "dbde5fb0288455f4be143c761052f114feb604b8be8d512b929a1f2863c7e976"
+    }
+  ],
+  "created_at": "2026-06-15T20:21:12.932636344Z"
+}
